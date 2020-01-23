@@ -13,6 +13,7 @@
       "countryCode": "USA",
       "region": "Hawaii"
     },
+   ]
     "profiles": [
       {
         "network": "github",
@@ -28,7 +29,7 @@
         "network": "instagram",
         "username": "strawbunnymilk",
         "url": "http://instagram.com/strawbunnymilk"
-      },
+      }
     ]
   },
   "interests": [
