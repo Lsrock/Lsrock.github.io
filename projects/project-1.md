@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Poke3.jpg
+image: images/download.png
 title: Gotta Catch Them All
 permalink: projects/PokemonGUI
 # All dates must be YYYY-MM-DD format!
