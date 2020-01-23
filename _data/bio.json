@@ -31,6 +31,23 @@
       }
     ]
   },
+    "interests": [
+    {
+      "name": "Software Engeneering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "data mining",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "artificial intelligence",
+      "keywords": [
+      ]
+    }
+  ],
   "skills": [
     {
       "name": "Languages and Frameworks",
