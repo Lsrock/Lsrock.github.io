@@ -31,33 +31,6 @@
       }
     ]
   },
-  "interests": [
-    {
-      "name": "Software engineering",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Web Design",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "keywords": [
-      ]
-    }
-    {
-      "name": "Game Development",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "App development",
-      "keywords": [
-      ]
-    },
-  ],
   "skills": [
     {
       "name": "Languages and Frameworks",
