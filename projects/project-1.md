@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: Gotta Catch Them All
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-12-11
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+  - Computer Science
+  - Pokemon
+summary: A GUI that was created for a final project that is meant to replicate the catching process of pokemon. 
 ---
 
 <div class="ui small rounded images">
@@ -20,25 +20,12 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+  A Graphical User Interface (GUI) is an interface that allows a user to interact with a program by using images and buttons to let the computer know what to do. It is a way to easily communicate with electronic devices. We can do this by using icons, menus and other graphical  representations to show information and give the user control without having to type commands in text. GUIs were created to give a more attractive and  convenient covering for command line programs, making it effortless for the user. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+  One of my favourite projects that I have created using JAVA was a Graphical User Interface that was meant to resemble a Pokemon game. In this project I used an Object Hierarchy,, a Binary Search Tree, and an ArrayList. The hierarchy was used to sort pokemon by the species, element type, and evolutions of the three original starter Pokemon(Charmander, Squirtle, and Bulbasaur). I used this GUI to hunt, catch, and display Pokemon to the user. A user could click the ‘Hunt’ button and Pokemon, which was chosen at random, would appear on screen. The user could then try to ‘Catch’ the Pokemon that appeared, or ‘Hunt’ for another one. If the user tried to catch the Pokemon, it could either get away or be stored in to the user’s ‘backpack’ When the Pokemon was caught it was added into an ArrayList that we could sort. The main purpose of the backpack was where the user could see what Pokemon they have captured. They can also choose to sort them by what was caught recently or by their number in the Pokedex. The user’s Pokedex is where information about the Pokemon they have come across, not just caught, is stored. The Pokedex was created by using a binary search tree.  They could also sort both the Pokedex and Backpack by the Pokemon’s HealthPoints’ and ‘Combat Points’ using a drop down menu.  
 
-Here is some code that illustrates how we read values from the line sensors:
+  I was the only programmer working on this project. It was created over a couple months by piecing together many other projects over my introduction to Computer Science II class. Being the only programmer working on this project allowed me to take creative control over how the GUI appeared to the user and how it worked. However, I had peers of mine test out the program and make sure that it was still a user friendly program that was easy to use. This project showed me what it would be like to work in the app development field, and taught me how to deal with dynamic data structures. 
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
 
 
