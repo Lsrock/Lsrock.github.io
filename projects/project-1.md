@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/Poke3.jpg
 title: Gotta Catch Them All
-permalink: projects/micromouse
+permalink: projects/PokemonGUI
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-11
 labels:
@@ -14,10 +14,8 @@ summary: A GUI that was created for a final project that is meant to replicate t
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/Poke1.png">
+  <img class="ui image" src="../images/Poke2.png">
 </div>
 
   A Graphical User Interface (GUI) is an interface that allows a user to interact with a program by using images and buttons to let the computer know what to do. It is a way to easily communicate with electronic devices. We can do this by using icons, menus and other graphical  representations to show information and give the user control without having to type commands in text. GUIs were created to give a more attractive and  convenient covering for command line programs, making it effortless for the user. 
