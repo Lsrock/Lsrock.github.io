@@ -2,7 +2,7 @@
   "basics": {
     "name": "Lucy Rock",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/0.jpg",
+    "picture": "https://lsrock.github.io/images/0.jpg",
     "email": "lsrock@hawaii.edu",
     "phone": "808-463-9650",
     "website": "https://Lsrock.github.io",
@@ -79,9 +79,10 @@
       "endDate": "Present",
       "courses": [ 
         "ICS 111",
-        "ICS 211", 
-        "ICS 212",
         "ICS 141", 
+        "ICS 211",
+        "ICS 241",
+        "ICS 212", 
         "ICS 311",
         "ICS 314",
       ]
