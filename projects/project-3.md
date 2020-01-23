@@ -1,61 +1,23 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/shaw1.png
+title: SHA-1
+permalink: projects/SHA1
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-04-13
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - SHA-1
+  - C
+summary: A hashing algorithm I worked on for ICS 212.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/sha11.png">
+<img class="ui image" src="{{ site.baseurl }}/images/sha12.png">
+<img class="ui image" src="{{ site.baseurl }}/images/sha13.png">
+<img class="ui image" src="{{ site.baseurl }}/images/sha14.png">
+<img class="ui image" src="{{ site.baseurl }}/images/sha15.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+One of my final projects in my Program Structure class, which taught students C and C++, was to write a version of SHA-1 to display messages from files given to me. SHA-1 is a cryptographic hash function which takes a file and produces a message digest, which is displayed in hexadecimal. It essentially inputs a string of characters and separates it into 32-bit unsigned characters. Then they are followed by EOF characters and placed into arrays with a size of 16. These arrays are padded with zeros to fill the indices that do not get filled, and the last array is saved for the input length. The size of the input are important because the number of arrays used are taken from it. The elements in each of those arrays are then hashed after being put into another array of size 80. This is done by using helper functions that work with the location of the item being looked at. The program then returns a five words message digest. 
 
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+	I searched out help to complete this project due to its complexity, and managed to complete it with fellow classmates. Every student was responsible for turning in their own version of the project however. I had the choice of using either C or C++ to complete this project, and ended up using C. It was an interesting and brief look into the world of cyber security, and helped me understand encryption better. 
