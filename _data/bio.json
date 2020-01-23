@@ -33,17 +33,27 @@
   },
     "interests": [
     {
-      "name": "Software Engeneering",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "data mining",
+      "name": "Web Design",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Mathematics",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Game Development",
+      "keywords": [
+      ]
+    },
+     {
+      "name": "App Development",
       "keywords": [
       ]
     }
