@@ -14,7 +14,6 @@ summary: A GUI that was created for a final project that is meant to replicate t
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/Poke1.png" height="300" width="450">
   <img class="ui image" src="../images/Poke2.png" height="300" width="450">
 </div>
 
@@ -25,5 +24,5 @@ summary: A GUI that was created for a final project that is meant to replicate t
   I was the only programmer working on this project. It was created over a couple months by piecing together many other projects over my introduction to Computer Science II class. Being the only programmer working on this project allowed me to take creative control over how the GUI appeared to the user and how it worked. However, I had peers of mine test out the program and make sure that it was still a user friendly program that was easy to use. This project showed me what it would be like to work in the app development field, and taught me how to deal with dynamic data structures. 
 
 
-
+  <img class="ui image" src="../images/Poke1.png" height="300" width="450">
 
