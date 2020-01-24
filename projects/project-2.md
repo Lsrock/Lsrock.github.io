@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Sewing-512.PNG
+image: images/Sewing-512.png
 title: Costumes
 permalink: projects/costumes
 # All dates must be YYYY-MM-DD format!
