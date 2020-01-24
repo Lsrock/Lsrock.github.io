@@ -19,4 +19,4 @@ summary: Costumes created through time management, problem solving, and quick th
   The whole project, which ended up involving three whole costumes being made, ended up being finished on time and executed well. I took on all of the responsibilities of creating them, but did get help from my sister with a few of the smaller details. This project was important for me to practice time management, work under stress, and creative problem solving. 
   
 <img class="ui medium right floated rounded image" src="../images/cost1.png" height="300" width="100"> <img class="ui medium right floated rounded image" src="../images/cost2.png" height="300" width="180">
-*Two of the costumes that I created, the other person did not want to be included*
+*Two of the costumes that I handmade from scratch, the other person did not want to be included*
