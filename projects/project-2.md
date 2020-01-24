@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/Sewing-512.PNG
-title: Vacay
-permalink: projects/vacay
+title: Costumes
+permalink: projects/costumes
 # All dates must be YYYY-MM-DD format!
 date: 2017-04-07
 labels:
@@ -12,7 +12,8 @@ labels:
 summary: Costumes created through time management, problem solving, and quick thinking.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/cost1.png">
+<img class="ui medium right floated rounded image" src="../images/cost2.png">
 
   When I was younger I wanted to become a costume designer for fantasy/ sci-fi movies. I have taken years of sewing classes and am able to make patterns for a lot of different things. My younger sister had asked me once to make a costume for me and her to wear to a convention that we were going to. For this project I needed to make two whole costumes, and I chose to add on another costume at the last second. I had one week to complete these costumes, while juggling other responsibilities at the time.
 
