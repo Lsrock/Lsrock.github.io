@@ -15,7 +15,7 @@ summary: A GUI that was created for a final project that is meant to replicate t
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/Poke1.png" height="300" width="450">
-  <img class="ui image" src="../images/Poke2.png"height="300" width="450">
+  <img class="ui image" src="../images/Poke2.png" height="300" width="450">
 </div>
 
   A Graphical User Interface (GUI) is an interface that allows a user to interact with a program by using images and buttons to let the computer know what to do. It is a way to easily communicate with electronic devices. We can do this by using icons, menus and other graphical  representations to show information and give the user control without having to type commands in text. GUIs were created to give a more attractive and  convenient covering for command line programs, making it effortless for the user. 
