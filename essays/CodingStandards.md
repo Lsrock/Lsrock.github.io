@@ -1,15 +1,14 @@
 ---
 layout: essay
 type: essay
-title: The Five Ws: Coding Standards
+title: Coding Standards
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-12
 labels:
   - Computer Science
   - Coding Standards
-  - ICS 314
-  - ESLint
 ---
+
 <img class="ui large right spaced image" src="../images/CodingS1.png">
 
 The Five Ws are a guideline of questions that should be asked when trying to learn, gather information, and problem solved. You can apply this to the topic of coding standards to get a real understanding of the topic:
