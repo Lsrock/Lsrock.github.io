@@ -11,7 +11,6 @@ labels:
   - ESLint
 ---
 <img class="ui large right spaced image" src="../images/CodingS1.png">
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
 The Five Ws are a guideline of questions that should be asked when trying to learn, gather information, and problem solved. You can apply this to the topic of coding standards to get a real understanding of the topic:
 
