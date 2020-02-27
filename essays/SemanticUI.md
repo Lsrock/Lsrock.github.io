@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Semantic UI
+title: Learning Semantic UI
 date: 2020-02-26
 labels:
   - Computer Science
