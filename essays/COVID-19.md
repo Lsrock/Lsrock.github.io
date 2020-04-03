@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Coding Standards
+title: Covid-19
 # All dates must be YYYY-MM-DD format!
-date: 2020-02-12
+date: 2020-04-02
 labels:
   - Computer Science
   - Coding Standards
 ---
 
-<img class="ui large right spaced image" src="../images/CodingS1.png">
+<img class="ui large right spaced image" src="../images/covid.jpg">
