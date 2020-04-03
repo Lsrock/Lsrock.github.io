@@ -5,8 +5,8 @@ title: Covid-19
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-02
 labels:
-  - Computer Science
-  - Coding Standards
+  - CoronaVirus
+  - Covid-19
 ---
 
 <img class="ui large spaced image" src="../images/covid.jpg">
