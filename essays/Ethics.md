@@ -10,4 +10,4 @@ labels:
   - Data Collection
 ---
 
-<img class="ui large spaced image" src="../images/covid.jpg">
+<img class="ui large spaced image" src="../images/10command.gif">
