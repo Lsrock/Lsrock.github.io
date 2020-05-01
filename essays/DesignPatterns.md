@@ -31,3 +31,7 @@ A pattern that is used to solve problems that are focused around class object co
 This category focuses on structures or relations between classes and objects and their composition and interactions.
 
 <img class="ui large fluid image" src="../images/r_1681353_fwhKD.jpg">
+
+## Using design patterns in my code, instead of my sewing
+
+Now that I have started to learn about software development, I am using design patterns in a new way. In one of my early computer sciences I was assigned a project that used class and object composition, class instantiation, and class object communication with the help of design patterns. For this project I had to create an object-oriented pokemon hierarchy for the different Pokemon species. I was given an idea of how it needed to be implemented and the class extensions through a blueprint. I had no idea at this point that I was using a design pattern, but learning about them now I can see how helpful they can be. 
