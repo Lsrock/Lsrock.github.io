@@ -21,11 +21,16 @@ Before I ever thought that I could get into something like programming, I spent 
 ## The Gang of Four
 
 In 1994, four well-known computer scientists known as the Gang of Four wrote about the advantages of using design patterns in a book called “Design Patterns: Elements of Reusable Object-Oriented Software”. In this book they talk about and describe three categories of design patterns. These categories are;
+
 <img class="ui large right spaced image" src="../images/unnamed.png">
-Creational Pattern: These design patterns are used to solve problems with class instantiation or objects. This category includes class-creation patterns with inheritance and object-creational patterns with delegation.
 
-Behavioral Pattern: A pattern that is used to solve problems that are focused around class object communication would fall into this category. These patterns are mostly used for the communication between objects. 
+## Creational Pattern: 
+These design patterns are used to solve problems with class instantiation or objects. This category includes class-creation patterns with inheritance and object-creational patterns with delegation.
 
-Structural Pattern: This category focuses on structures or relations between classes and objects and their composition and interactions.
+## Behavioral Pattern: 
+A pattern that is used to solve problems that are focused around class object communication would fall into this category. These patterns are mostly used for the communication between objects. 
+
+## Structural Pattern: 
+This category focuses on structures or relations between classes and objects and their composition and interactions.
 
 <img class="ui large center spaced image" src="../images/r_1681353_fwhKD.jpg">
