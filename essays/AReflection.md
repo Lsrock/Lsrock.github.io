@@ -12,7 +12,7 @@ labels:
   - Programming
 ---
 
-<img class="ui large spaced image" src="../images/software-engineering.jpg"  height="300" width="530">
+<img class="ui large spaced image" src="../images/software-engineering.jpg"  height="300" width="700">
 
 
 Before I took this class I was excited because I was told that you learn about web application development, but when I started I found out that I  would learn more than that. I learned many fundamental software engineering concepts as well. I enjoyed experiencing what it is like to not just work with web development, but also what comes along with it. Three of my favourite topics during this course were: 
