@@ -19,6 +19,8 @@ Before I took this class I was excited because I was told that you learn about w
 
 ## Coding Standards
 
+<img class="ui large spaced image" image" align="left" src="../images/CodingStandards.jpg"  height="720" width="1280" alt="">
+
 Coding standards are a set of guidelines that have been set by software development organizations. They act as guidelines that need to be followed by every developer that is working on producing an application. They were set in place to help aid the production of high-quality code that is easy to follow and maintain. It helps reduce the risk of errors or bugs in any code because as the project becomes big and more complex, it can become more vulnerable to all types of errors. These standards help develop software programs to work smoothly in the end.
 
 In my final project I learned first hand how important it is to follow a coding standard. It helps team members work together more efficiently. I found that when we stuck to a coding standard, everyone's work was easier to comprehend. It was difficult at times to go back and read some of my team members' work to try to expand the functionality of our website. To me, this was an eye-opener to why these standards are so important when working in a large company team. 
@@ -27,14 +29,8 @@ I had openly talked about trying to fix bugs and working off of code that wasn't
 
 ## Ethics in Software Engineering
 
+<img class="ui large spaced image" image" align="right" src="../images/images.jpg"  height="720" width="1280" alt="">
+
 Ethics in software engineering is a very large topic, which I feel I just scratched the surface of. It can be defined as ["the application of both computer science and engineering philosophy, principles, and practices to the design and development of software systems."]( https://en.wikipedia.org/wiki/Software_engineering_professionalism) This opens up the topic on a massive scale. However, I do feel like I got a deeper understanding of it as I began to work on a web application. In my first application I self-assigned a sign-up page. In this I had placed an "I accept the terms and conditions" checkbox that was required to be marked to make an account. I didn't make an actual file for the user to then read them. When my team and I had asked people to try our website, the most common response was "What are the terms and conditions? What exactly am I agreeing to give you?" I was surprised by this, but then I remembered that I am technically being given real information, such as emails and birthdays. 
 
 I feel like trying to be ethical in the future might be hard, just because it's the little things we don't often think about. Yet what we either purposefully or accidentally overlook can be extremely important to the user. I plan on being very mindful of it in the future now, as it is so important not just to me and my future employers, but also to the user. 
-
-## Functional Programming
-
-L
-
-## User Interface Frameworks
-
-B
