@@ -35,4 +35,6 @@ In the first group meeting, my team members and I split up responsibilities. Two
 
 I feel that my understanding of how to work with Meteor and MongoDB has improved a lot since I completed this project. It has left me with an extreme appreciation for the development skills that go into creating an application like this, and I think that I have been able to collect and improve my software engineering skills. I cannot wait to practice making an application again, and I am also very excited to take what I've learned and used it in a professional setting. 
 
+<img class="ui image" src="../images/mf4.png" height="400" width="600"  alt="">
+
 If you would like to take a look at the project, it can be found <a href="https://github.com/manoafitnessfinder/app">here</a>.
