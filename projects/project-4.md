@@ -19,6 +19,8 @@ summary: A website I worked on with a group of five for my Software Engineering 
 
 <img class="ui image" src="../images/mf1.png" height="400" width="600" alt="">
 
+To find an in-depth explanation of this project please click [here](https://manoafitnessfinder.github.io/)
+
 ## Manoa Fitness Finder
 
 My final project in my Software Engineering (I) class involved me working in a group of five to create a website that could be useful to students on my campus. My team was given the idea to create a fitness website that could connect students across campus that want to socialize and exercise together. We came up with the idea of Manoa Fitness Finder, an application that allows students to log in and create a profile that specifies their gender, interests, level, “looking for”, and goals. It allowed them to interact with one another through comments, create events for meetups, add friends, and find new upcoming events. 
