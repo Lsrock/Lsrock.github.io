@@ -34,7 +34,7 @@ Throughout the project, we were assigned three milestones. The first milestone h
 	Delete HACC Hui account
 	From these four issues, I worked on the Login & Profile issue. For this, I was in charge of setting up the login page (1), a displayed profile, a participation acknowledgment page, and an edit profile page. 
 
-<img class="ui image" align="left" src="../images/profile1.png" height="600" width="500"  alt=""> <img class="ui image" src="../images/profile2.png"height="560" width="500"  alt="">
+<img class="ui image" align="left" src="../images/profile1.png" height="600" width="500"  alt=""> <img class="ui image" align="right" src="../images/profile2.png" height="560" width="500"  alt="">
 
 <img class="ui image" src="../images/editprofile.png" height="600" width="500" alt=""> 
 
