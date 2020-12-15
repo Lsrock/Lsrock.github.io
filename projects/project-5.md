@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/manoalogo.png
-title: Manoa Fitness Finder
-permalink: projects/ManoaFitnessFinder
+image: images/hacc.png
+title: HACC HUI
+permalink: projects/HACCHUI
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-15
 labels:
