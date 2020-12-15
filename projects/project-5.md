@@ -17,7 +17,7 @@ labels:
 summary: A website I worked on with a group of four for my Software Engineering II class.
 ---
 
-<img class="ui image" src="../images/mf1.png" height="400" width="600" alt="">
+<img class="ui image" src="../images/hacc-landing.png" height="400" width="600" alt="">
 
 ## HACC HUI
 
