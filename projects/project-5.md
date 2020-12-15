@@ -18,8 +18,6 @@ summary: A website I worked on with a group of four for my Software Engineering 
 ---
 
 
-## HACC HUI
-
 The Hawaii Annual Code Challenge <a href="https://hacc.hawaii.gov/">(HACC)</a> is a hackathon that is held by Hawaii every year.  <a href="https://hacc-hui.github.io/">HACC HUI</a> was created to provide a user-friendly system that would allow users to form teams in a simple way.  They could view profiles and interact with other people looking to form a team. It was built using React, MongoDB, Meteor, and Semantic-UI.
 
 <img class="ui image" src="../images/hacc-landing.png" height="500" width="700" alt="">
