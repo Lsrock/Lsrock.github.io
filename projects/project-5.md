@@ -53,10 +53,10 @@ For Milestone Three, the new issues were assignment and all teams started to wor
 My overall experience in ICS 414: Software Engineering II was a good one. I am happy I decided to take this course because I feel like it has shown me a glimpse of what to expect when working in a team once I graduate. I learned a lot about how keeping updated with your team members is important, as well as a lot of new web development knowledge. I think the project itself went well, despite the rushed time frame. I am proud to say that I was a part of the teams that made HACC HUI. 
 
 ## Links:
-	<a href="https://hacchui.ics.hawaii.edu/#/">Running site HACC HUI</a>
+<a href=https://hacchui.ics.hawaii.edu/#/">Running site HACC HUI</a>
 	
-	<a href="https://github.com/400-iq/HACC-Hui">Team's Github</a>
+<a href="https://github.com/400-iq/HACC-Hui">Team's Github</a>
 	
-	<a href="https://github.com/HACC-Hui/HACC-Hui">Master</a>
+<a href="https://github.com/HACC-Hui/HACC-Hui">Master</a>
 	
-	<a href="https://hacc-hui.github.io/">Detailed Description of project</a>
+<a href="https://hacc-hui.github.io/">Detailed Description of project</a>
