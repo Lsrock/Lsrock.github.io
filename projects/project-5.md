@@ -5,7 +5,7 @@ image: images/manoalogo.png
 title: Manoa Fitness Finder
 permalink: projects/ManoaFitnessFinder
 # All dates must be YYYY-MM-DD format!
-date: 2020-05-14
+date: 2020-12-15
 labels:
   - Software Engineering
   - Intellij
@@ -14,29 +14,34 @@ labels:
   - Semantic UI
   - React
   - Web Design
-summary: A website I worked on with a group of five for my Software Engineering I class.
+summary: A website I worked on with a group of four for my Software Engineering II class.
 ---
 
 <img class="ui image" src="../images/mf1.png" height="400" width="600" alt="">
 
-To find an in-depth explanation of this project please click [here](https://manoafitnessfinder.github.io/)
+## HACC HUI
 
-## Manoa Fitness Finder
+The Hawaii Annual Code Challenge <a href="https://hacc.hawaii.gov/">(HACC)</a> is a hackathon that is held by Hawaii every year.  <a href="https://hacc-hui.github.io/">HACC HUI</a> was created to provide a user-friendly system that would allow users to form teams in a simple way.  They could view profiles and interact with other people looking to form a team. It was built using React, MongoDB, Meteor, and Semantic-UI.
 
-My final project in my Software Engineering (I) class involved me working in a group of five to create a website that could be useful to students on my campus. My team was given the idea to create a fitness website that could connect students across campus that want to socialize and exercise together. We came up with the idea of Manoa Fitness Finder, an application that allows students to log in and create a profile that specifies their gender, interests, level, “looking for”, and goals. It allowed them to interact with one another through comments, create events for meetups, add friends, and find new upcoming events. 
+I was placed in a team with Jennifer Hsu, Kelli Tamashiro, and James Bennett. Our team process was that we would assign certain issues to work on ourselves. Then we would meet up twice a week to discuss and present our progress on the issue. If anyone had fallen behind, then we would try to help them catch up. We communicated largely through discord, and we all worked in the same repository. We shared the same amount of responsibilities. We were all responsible for attending the meetings, answering questions, and presenting. 
 
-<img class="ui image" src="../images/mf2.png" height="400" width="600"  alt="">
+## MileStones: 
+Throughout the project, we were assigned three milestones. The first milestone had four issues in it. They were:
+Configure HACC
+Login & profile
+Create team
+Delete HACC Hui account
+	From these four issues, I worked on the Login & Profile issue. For this, I was in charge of setting up the login page (1), a displayed profile, a participation acknowledgment page, and an edit profile page. 
 
-## My part in the project
+Milestone Two had four  additional issues :
+Update team
+Delete team
+See best-fit teams
+Indicate desire to join
+For this milestone, I worked on the update team issue. For this, I needed to make sure it met all the requirements, such as having a unique team name and implement a multi-select field for the challenges, skills, and tools. 
 
-In the first group meeting, my team members and I split up responsibilities. Two members and I volunteered to work on and set up the design of the website. I was responsible for designing the navigation menu, the header, the login page, the sign-up page, the testimonials page, and the contact page. Later on a group member and I took on the job of creating the comment section found on all the profiles, having them list not only the comment but the date, user name, and image of the person who left it. We also added the ability to click on the image to go to the user's profile. In the end I worked on all the navigation and re-directions of the page. The whole team was responsible for making sure that the website was properly updated, working, and we really wanted to focus on making it as user friendly as possible. 
+For Milestone Three, the new issues were assignment and all teams started to work on the master repository for the application. Out of the many issues assigned, I was in charge of creating a leave team function that would notify the team’s creator using a Slack DM. I was also responsible for making sure that the configure HACC page was on the theme, involving the color scheme, and making sure that there were no design bugs. I also worked on the edit team page and the navigation bar. 
 
-<img class="ui image" src="../images/mf3.png" height="400" width="600"  alt="">
+## My Experience:
+My overall experience in ICS 414: Software Engineering II was a good one. I am happy I decided to take this course because I feel like it has shown me a glimpse of what to expect when working in a team once I graduate. I learned a lot about how keeping updated with your team members is important, as well as a lot of new web development knowledge. I think the project itself went well, despite the rushed time frame. I am proud to say that I was a part of the teams that made HACC HUI. 
 
-## What I learned from this project
-
-In the end I believe that my team and I created a good website. We received very good feedback from lots of people within the profession and outside of it. I feel that my understanding of how to work with Meteor and MongoDB has improved a lot since I completed this project. It has left me with an extreme appreciation for the development skills that go into creating an application like this, and I think that I have been able to collect and improve my software engineering skills. I cannot wait to practice making an application again, and I am also very excited to take what I've learned and used it in a professional setting. 
-
-<img class="ui image" src="../images/mf4.png" height="400" width="600"  alt="">
-
-If you would like to take a look at the project, it can be found <a href="https://github.com/manoafitnessfinder/app">here</a>.
