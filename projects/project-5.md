@@ -28,22 +28,27 @@ I was placed in a team with Jennifer Hsu, Kelli Tamashiro, and James Bennett. Ou
 
 ## MileStones: 
 Throughout the project, we were assigned three milestones. The first milestone had four issues in it. They were:
-Configure HACC
-Login & profile
-Create team
-Delete HACC Hui account
+	Configure HACC
+	Login & profile
+	Create team
+	Delete HACC Hui account
 	From these four issues, I worked on the Login & Profile issue. For this, I was in charge of setting up the login page (1), a displayed profile, a participation acknowledgment page, and an edit profile page. 
-<img class="ui image" src="../images/profile1.png" alt=""> <img class="ui image" src="../images/profile2.png" alt="">
-<img class="ui image" src="../images/editprofile.png" alt=""> 
+
+<img class="ui image" align="left" src="../images/profile1.png" height="600" width="500"  alt=""> <img class="ui image" align="right" src="../images/profile2.png"height="560" width="500"  alt="">
+
+<img class="ui image" src="../images/editprofile.png" height="600" width="500" alt=""> 
+
 Milestone Two had four  additional issues :
-Update team
-Delete team
-See best-fit teams
-Indicate desire to join
-For this milestone, I worked on the update team issue. For this, I needed to make sure it met all the requirements, such as having a unique team name and implement a multi-select field for the challenges, skills, and tools. 
-<img class="ui image" src="../images/editteam.png">
+	Update team
+	Delete team
+	See best-fit teams
+	Indicate desire to join
+	For this milestone, I worked on the update team issue. For this, I needed to make sure it met all the requirements, such as having a unique team name and implement a multi-select field for the challenges, skills, and tools. 
+
+<img class="ui image" src="../images/editteam.png" height="600" width="500">
+
 For Milestone Three, the new issues were assignment and all teams started to work on the master repository for the application. Out of the many issues assigned, I was in charge of creating a leave team function that would notify the team’s creator using a Slack DM. I was also responsible for making sure that the configure HACC page was on the theme, involving the color scheme, and making sure that there were no design bugs. I also worked on the edit team page and the navigation bar. 
-<img class="ui image" src="../images/hacc-landing.png" height="500" width="700" alt="">
+
 ## My Experience:
 My overall experience in ICS 414: Software Engineering II was a good one. I am happy I decided to take this course because I feel like it has shown me a glimpse of what to expect when working in a team once I graduate. I learned a lot about how keeping updated with your team members is important, as well as a lot of new web development knowledge. I think the project itself went well, despite the rushed time frame. I am proud to say that I was a part of the teams that made HACC HUI. 
 
